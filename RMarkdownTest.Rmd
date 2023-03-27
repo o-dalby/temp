@@ -32,5 +32,15 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 # Testing GitHub and RProjects
 
-I should now be able to save this file to the default R project (which is set as the default get wd)
+I should now be able to save this file to the default R project (which is set as the default get wd). Changes can be saved on the file and then committed t Github to act as a repository. 
+
+Generally we want to...
+
+tweak the file as needed
+save changes locally
+commit changes with a suitable comment
+pull the github files down
+push all files back to github
+
+That way we have version control from Github and everyting local will match everything on Github
 
